@@ -1,0 +1,8 @@
+C:\Users\Pierre\Documents\GitHub\clientNomade\clientNomade\bin\Release\clientNomade.exe.config
+C:\Users\Pierre\Documents\GitHub\clientNomade\clientNomade\bin\Release\clientNomade.exe
+C:\Users\Pierre\Documents\GitHub\clientNomade\clientNomade\bin\Release\clientNomade.pdb
+C:\Users\Pierre\Documents\GitHub\clientNomade\clientNomade\obj\Release\clientNomade.Form1.resources
+C:\Users\Pierre\Documents\GitHub\clientNomade\clientNomade\obj\Release\clientNomade.Properties.Resources.resources
+C:\Users\Pierre\Documents\GitHub\clientNomade\clientNomade\obj\Release\clientNomade.csproj.GenerateResource.Cache
+C:\Users\Pierre\Documents\GitHub\clientNomade\clientNomade\obj\Release\clientNomade.exe
+C:\Users\Pierre\Documents\GitHub\clientNomade\clientNomade\obj\Release\clientNomade.pdb
