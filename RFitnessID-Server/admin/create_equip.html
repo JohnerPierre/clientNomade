@@ -1,0 +1,18 @@
+<html>
+  <head>
+    <title>Create Equipement</title>
+  </head>
+  <body>
+    <h1>Create equipement</h1>
+	<form action="http://127.0.0.1:5000/admin/create_equip" method="get">
+	Name : <input type="text" name="equip_name"><br/>
+	Instructions:<br/><textarea name="equip_instr"></textarea><br/>
+  <select name="etype">
+    <option value="1" selected>Bicycle</option>
+    <option value="2">Treadmill</option>
+    <option value="3">Stepper</option>
+  </select><br/>
+	<input type="submit" value="submit">
+	</form>
+  </body>
+</html>
